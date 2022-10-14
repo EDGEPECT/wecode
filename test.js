@@ -1,0 +1,3 @@
+const isItEven() => {
+ return a
+}
